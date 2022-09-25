@@ -21,3 +21,26 @@
     - [ORDER BY](Retrieving-Data-From-a-Single-Table/ORDER-BY_Clause-Exercise.sql) exercise
   - [LIMIT](Retrieving-Data-From-a-Single-Table/LIMIT_Clause.sql) clause
     - [LIMIT](Retrieving-Data-From-a-Single-Table/LIMIT_Clause-Exercise.sql) exercise
+---
+
+- Retrieving Data From Multiple Tables
+  - [(INNER) JOIN](Retrieving-Data-From-Multiple-Tables/INNER-JOIN_Clause.sql) clause
+    - [(INNER) JOIN](Retrieving-Data-From-Multiple-Tables/INNER-JOIN_Clause-Exercise.sql) exercise
+  - [Joining Across Databases](Retrieving-Data-From-Multiple-Tables/Joining-Across-Databases.sql)
+  - [Self JOIN](Retrieving-Data-From-Multiple-Tables/Self-JOIN.sql)
+  - [Joining Multiple Tables](Retrieving-Data-From-Multiple-Tables/Joining-Multiple-Tables.sql)
+    - [Joining Multiple Tables](Retrieving-Data-From-Multiple-Tables/Joining-Multiple-Tables-Exercise.sql) exercise
+  - [Compound Join Conditions](Retrieving-Data-From-Multiple-Tables/Compound-Join-Conditions.sql)
+  - [Explicit and Implicit Joins](Retrieving-Data-From-Multiple-Tables/Explicit-and-Implicit-Join.sql)
+  - [Outer Joins](Retrieving-Data-From-Multiple-Tables/Outer-Joins.sql)
+    - [Outer Joins](Retrieving-Data-From-Multiple-Tables/Outer-Joins-Exercise.sql) exercise
+  - [Outer Join Between Multiple Tables](Retrieving-Data-From-Multiple-Tables/Outer-Join-Between-Multiple-Tables.sql)
+    - [Outer Join Between Multiple Tables](Retrieving-Data-From-Multiple-Tables/Outer-Join-Between-Multiple-Tables-Exercise.sql) exercise
+  - [Self Outer Joins](Retrieving-Data-From-Multiple-Tables/Self-Outer-Join.sql)
+  - [USING](Retrieving-Data-From-Multiple-Tables/Using-Clause.sql) clause
+    - [USING](Retrieving-Data-From-Multiple-Tables/Using-Clause-Exercise.sql) exercise
+  - [Natural Joins](Retrieving-Data-From-Multiple-Tables/Natural-Joins.sql)
+  - [Cross Joins](Retrieving-Data-From-Multiple-Tables/Cross-Joins.sql)
+    - [Cross Joins](Retrieving-Data-From-Multiple-Tables/Cross-Joins-Exercise.sql) exercise
+  - [UNION](Retrieving-Data-From-Multiple-Tables/Unions.sql) clause
+    - [UNION](Retrieving-Data-From-Multiple-Tables/Unions-Exercise.sql) exercise
