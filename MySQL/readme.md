@@ -1,0 +1,23 @@
+# MySQL
+
+- Retrieving Data From a Single Table
+  - [SELECT](Retrieving-Data-From-a-Single-Table/SELECT_Clause.sql) clause
+    - [SELECT](Retrieving-Data-From-a-Single-Table/SELECT_Clause-Exercise.sql) exercise
+  - [WHERE](Retrieving-Data-From-a-Single-Table/WHERE_Clause.sql) clause
+    - [WHERE](Retrieving-Data-From-a-Single-Table/WHERE_Clause-Exercise.sql) exercise
+  - [AND, OR, NOT](Retrieving-Data-From-a-Single-Table/AND-OR-NOT_Operators.sql) operators
+    - [AND, OR, NOT](Retrieving-Data-From-a-Single-Table/AND-OR-NOT_Operators-Exercise.sql) exercise
+  - [IN](Retrieving-Data-From-a-Single-Table/IN_Operator.sql) operator
+    - [IN](Retrieving-Data-From-a-Single-Table/IN_Operator-Exercise.sql) exercise
+  - [BETWEEN](Retrieving-Data-From-a-Single-Table/BETWEEN_Operator.sql) operator
+    - [BETWEEN](Retrieving-Data-From-a-Single-Table/BETWEEN_Operator-Exercise.sql) exercise
+  - [LIKE](Retrieving-Data-From-a-Single-Table/LIKE_Operator.sql) operator
+    - [LIKE](Retrieving-Data-From-a-Single-Table/LIKE_Operator-Exercise.sql) exercise
+  - [REGEXP](Retrieving-Data-From-a-Single-Table/REGEXP_Operator.sql) operator
+    - [REGEXP](Retrieving-Data-From-a-Single-Table/REGEXP_Operator-Exercise.sql) exercise
+  - [IS NULL](Retrieving-Data-From-a-Single-Table/IS-NULL_Operator.sql) operator
+    - [IS NULL](Retrieving-Data-From-a-Single-Table/IS-NULL_Operator-Exercise.sql) exercise
+  - [ORDER BY](Retrieving-Data-From-a-Single-Table/ORDER-BY_Clause.sql) clause
+    - [ORDER BY](Retrieving-Data-From-a-Single-Table/ORDER-BY_Clause-Exercise.sql) exercise
+  - [LIMIT](Retrieving-Data-From-a-Single-Table/LIMIT_Clause.sql) clause
+    - [LIMIT](Retrieving-Data-From-a-Single-Table/LIMIT_Clause-Exercise.sql) exercise
