@@ -22,7 +22,6 @@
   - [LIMIT](Retrieving-Data-From-a-Single-Table/LIMIT_Clause.sql) clause
     - [LIMIT](Retrieving-Data-From-a-Single-Table/LIMIT_Clause-Exercise.sql) exercise
 ---
-
 - Retrieving Data From Multiple Tables
   - [(INNER) JOIN](Retrieving-Data-From-Multiple-Tables/INNER-JOIN_Clause.sql) clause
     - [(INNER) JOIN](Retrieving-Data-From-Multiple-Tables/INNER-JOIN_Clause-Exercise.sql) exercise
@@ -44,3 +43,9 @@
     - [Cross Joins](Retrieving-Data-From-Multiple-Tables/Cross-Joins-Exercise.sql) exercise
   - [UNION](Retrieving-Data-From-Multiple-Tables/Unions.sql) clause
     - [UNION](Retrieving-Data-From-Multiple-Tables/Unions-Exercise.sql) exercise
+---
+  - Inserting, Updating and Deleting Data
+    - [Inserting a Row](Inserting-Updating-Deleting_Data/Inserting-a-Row.sql)
+    - [Inserting Multiple Rows](Inserting-Updating-Deleting_Data/Inserting-Multiple-Rows.sql)
+      - [Inserting Multiple Rows](Inserting-Updating-Deleting_Data/Inserting-Multiple-Rows-Exercise.sql) exercise
+    - [Inserting Hierarchical Rows](Inserting-Updating-Deleting_Data/Inserting-Hierarchical-Rows.sql)
