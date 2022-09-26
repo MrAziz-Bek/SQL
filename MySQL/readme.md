@@ -49,3 +49,11 @@
     - [Inserting Multiple Rows](Inserting-Updating-Deleting_Data/Inserting-Multiple-Rows.sql)
       - [Inserting Multiple Rows](Inserting-Updating-Deleting_Data/Inserting-Multiple-Rows-Exercise.sql) exercise
     - [Inserting Hierarchical Rows](Inserting-Updating-Deleting_Data/Inserting-Hierarchical-Rows.sql)
+    - [Creating a Copy of a Table](Inserting-Updating-Deleting_Data/Creating-a-Copy-of-a-Table.sql)
+      - [Creating a Copy of a Table](Inserting-Updating-Deleting_Data/Creating-a-Copy-of-a-Table-Exercise.sql) exercise
+    - [Updating a Single Row](Inserting-Updating-Deleting_Data/Updating-a-Single-Row.sql)
+    - [Updating Multiple Rows](Inserting-Updating-Deleting_Data/Updating-Multiple-Rows.sql)
+      - [Updating Multiple Rows](Inserting-Updating-Deleting_Data/Updating-Multiple-Rows-Exercise.sql) exercise
+    - [Using Subqueries in Updates](Inserting-Updating-Deleting_Data/Using-Subqueries-in-Updates.sql)
+     - [Using Subqueries in Updates](Inserting-Updating-Deleting_Data/Using-Subqueries-in-Updates-Exercise.sql) exercise
+     - [Deleting Rows](Inserting-Updating-Deleting_Data/Deleting-Rows.sql)
