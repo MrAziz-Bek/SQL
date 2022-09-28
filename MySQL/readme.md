@@ -57,3 +57,13 @@
     - [Using Subqueries in Updates](Inserting-Updating-Deleting_Data/Using-Subqueries-in-Updates.sql)
      - [Using Subqueries in Updates](Inserting-Updating-Deleting_Data/Using-Subqueries-in-Updates-Exercise.sql) exercise
      - [Deleting Rows](Inserting-Updating-Deleting_Data/Deleting-Rows.sql)
+---
+  - Summarizing Data
+    - [Aggregate Functions](Summarizing-Data/Aggregate-Functions.sql)
+      - [Aggregate Functions](Summarizing-Data/Aggregate-Functions-Exercise.sql) exercise
+    - [GROUP BY Clause](Summarizing-Data/Group-By-Clause.sql)
+      - [GROUP BY Clause](Summarizing-Data/Group-By-Clause-Exercise.sql) exercise
+    - [HAVING Clause](Summarizing-Data/Having-Clause.sql)
+      - [HAVING Clause](Summarizing-Data/Having-Clause-Exercise.sql) exercise
+    - [ROLLUP Operator](Summarizing-Data/Rollup-Operator.sql)
+      - [ROLLUP Operator](Summarizing-Data/Rollup-Operator-Exercise.sql) exercise
