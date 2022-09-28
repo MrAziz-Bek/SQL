@@ -64,6 +64,7 @@
     - [GROUP BY Clause](Summarizing-Data/Group-By-Clause.sql)
       - [GROUP BY Clause](Summarizing-Data/Group-By-Clause-Exercise.sql) exercise
     - [HAVING Clause](Summarizing-Data/Having-Clause.sql)
+      - [HAVING vs. WHERE](Summarizing-Data/having-vs-where.png)
       - [HAVING Clause](Summarizing-Data/Having-Clause-Exercise.sql) exercise
     - [ROLLUP Operator](Summarizing-Data/Rollup-Operator.sql)
       - [ROLLUP Operator](Summarizing-Data/Rollup-Operator-Exercise.sql) exercise
