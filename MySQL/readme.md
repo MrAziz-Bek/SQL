@@ -77,3 +77,11 @@
     - [Subqueries vs Joins](Writing-Complex-Queries/Subqueries-vs-Joins.sql)
       - [Subqueries vs Joins](Writing-Complex-Queries/Subqueries-vs-Joins-Exercise.sql) exercise
     - [ALL Keyword](Writing-Complex-Queries/All-Keyword.sql)
+    - [ANY Keyword](Writing-Complex-Queries/Any-Keyword.sql)
+    - [Correlated Subqueries](Writing-Complex-Queries/Correlated-Subqueries.sql)
+      - [Correlated Subqueries](Writing-Complex-Queries/Correlated-Subqueries-Exercise.sql) exercise
+    - [EXISTS Operator](Writing-Complex-Queries/Exists-Operator.sql)
+      - [EXISTS Operator](Writing-Complex-Queries/Exists-Operator-Exercise.sql) exercise
+    - [Subqueries in the SELECT Clause](Writing-Complex-Queries/Subqueries-in-Select.sql)
+      - [Subqueries in the SELECT Clause](Writing-Complex-Queries/Subqueries-in-Select-Exercise.sql) exercise
+    - [Subqueries in the FROM Clause](Writing-Complex-Queries/Subqueries-in-From.sql)
