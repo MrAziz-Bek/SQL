@@ -68,3 +68,12 @@
       - [HAVING Clause](Summarizing-Data/Having-Clause-Exercise.sql) exercise
     - [ROLLUP Operator](Summarizing-Data/Rollup-Operator.sql)
       - [ROLLUP Operator](Summarizing-Data/Rollup-Operator-Exercise.sql) exercise
+---
+  - Writing Complex Queries
+    - [Subqueries](Writing-Complex-Queries/Subqueries.sql)
+      - [Subqueries](Writing-Complex-Queries/Subqueries-Exercise.sql) exercise
+    - [IN Operator](Writing-Complex-Queries/IN-Operator.sql)
+      - [IN Operator](Writing-Complex-Queries/IN-Operator-Exercise.sql) exercise
+    - [Subqueries vs Joins](Writing-Complex-Queries/Subqueries-vs-Joins.sql)
+      - [Subqueries vs Joins](Writing-Complex-Queries/Subqueries-vs-Joins-Exercise.sql) exercise
+    - [ALL Keyword](Writing-Complex-Queries/All-Keyword.sql)
