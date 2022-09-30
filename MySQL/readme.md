@@ -85,3 +85,5 @@
     - [Subqueries in the SELECT Clause](Writing-Complex-Queries/Subqueries-in-Select.sql)
       - [Subqueries in the SELECT Clause](Writing-Complex-Queries/Subqueries-in-Select-Exercise.sql) exercise
     - [Subqueries in the FROM Clause](Writing-Complex-Queries/Subqueries-in-From.sql)
+---
+**MySQL documentation** - https://dev.mysql.com/doc/
