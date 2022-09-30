@@ -1,0 +1,2 @@
+SELECT TIME_FORMAT(NOW(), '%H:%i: %p');
+SELECT DATE_FORMAT(NOW(), '%M %d %Y');
