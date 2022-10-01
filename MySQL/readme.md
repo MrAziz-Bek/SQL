@@ -86,4 +86,12 @@
       - [Subqueries in the SELECT Clause](Writing-Complex-Queries/Subqueries-in-Select-Exercise.sql) exercise
     - [Subqueries in the FROM Clause](Writing-Complex-Queries/Subqueries-in-From.sql)
 ---
+  - Essential MySQL functions
+    - [Numeric functions](Essential-MySQL-Functions/Numeric-Functions.sql)
+    - [String functions](Essential-MySQL-Functions/String-Functions.sql)
+    - [Date functions](Essential-MySQL-Functions/Date-Functions.sql)
+      - [Date functions](Essential-MySQL-Functions/Date-Functions-Exercise.sql) exercise
+    - [Formatting Dates and Times](Essential-MySQL-Functions/Formatting-Dates-And-Times.sql)
+    - [Calculating Dates and Times](Essential-MySQL-Functions/Calculating-Dates-And-Times.sql)
+---
 **MySQL documentation** - https://dev.mysql.com/doc/
