@@ -93,5 +93,11 @@
       - [Date functions](Essential-MySQL-Functions/Date-Functions-Exercise.sql) exercise
     - [Formatting Dates and Times](Essential-MySQL-Functions/Formatting-Dates-And-Times.sql)
     - [Calculating Dates and Times](Essential-MySQL-Functions/Calculating-Dates-And-Times.sql)
+    - [IFNULL & COALESCE functions](Essential-MySQL-Functions/Ifnull-and-Coalesce-Functions.sql)
+      - [IFNULL & COALESCE functions](Essential-MySQL-Functions/Ifnull-and-Coalesce-Functions-Exercise.sql) exercise
+    - [IF function](Essential-MySQL-Functions/If-functions.sql)
+      - [IF function](Essential-MySQL-Functions/If-functions-Exercise.sql) exercise
+    - [Case operator](Essential-MySQL-Functions/Case-operator.sql)
+      - [Case operator](Essential-MySQL-Functions/Case-operator-Exercise.sql) exercise
 ---
 **MySQL documentation** - https://dev.mysql.com/doc/
