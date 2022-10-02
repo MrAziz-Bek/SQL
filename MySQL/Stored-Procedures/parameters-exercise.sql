@@ -13,3 +13,5 @@ BEGIN
     FROM invoices i
     WHERE i.client_id = client_id;
 END$$
+
+DELIMITER ;
