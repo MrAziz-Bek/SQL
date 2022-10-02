@@ -108,4 +108,10 @@
     - [WITH CHECK OPTION Clause](Views/With_Check_Option-Clause.sql)
     - [Other benefits of Views](Views/other-benefits-of-views.png)
 ---
+  - Stored Procedure
+    - [SQL Stored Procedures](Stored-Procedures/sql-stored-procedures.md)
+    - [Creating a Stored Procedure](Stored-Procedures/creating-a-stored-procedure.sql)
+      - [DELIMITER](Stored-Procedures/delimiter.md)
+      - [Creating a Stored Procedure](Stored-Procedures/creating-a-stored-procedure-exercise.sql) exercise
+---
 **MySQL documentation** - https://dev.mysql.com/doc/
