@@ -113,5 +113,15 @@
     - [Creating a Stored Procedure](Stored-Procedures/creating-a-stored-procedure.sql)
       - [DELIMITER](Stored-Procedures/delimiter.md)
       - [Creating a Stored Procedure](Stored-Procedures/creating-a-stored-procedure-exercise.sql) exercise
+    - [Dropping Stored Procedures](Stored-Procedures/dropping-stored-procedures.sql)
+    - [Parameters](Stored-Procedures/parameters.sql)
+      - [Parameters](Stored-Procedures/parameters-exercise.sql) exercise
+    - [Parameters with Default Values](Stored-Procedures/parameters-with-default-values.sql)
+      - [Parameters with Default Values](Stored-Procedures/parameters-with-default-values-exercise.sql) exercise
+    - [Parameters Validation](Stored-Procedures/parameter-validation.sql)
+    - [Output Parameters](Stored-Procedures/output-parameters.sql)
+    - [Variables](Stored-Procedures/variables.sql)
+    - [Functions](Stored-Procedures/functions.sql)
+      - [Drop Functions](Stored-Procedures/drop-functions.sql)
 ---
 **MySQL documentation** - https://dev.mysql.com/doc/
