@@ -100,4 +100,12 @@
     - [Case operator](Essential-MySQL-Functions/Case-operator.sql)
       - [Case operator](Essential-MySQL-Functions/Case-operator-Exercise.sql) exercise
 ---
+  - Views
+    - [Creating Views](Views/Creating-Views.sql)
+      - [Creating Views](Views/Creating-Views-Exercise.sql) exercise
+    - [Altering or Dropping Views](Views/Altering-or-Dropping-Views.sql)
+    - [Updatable Views](Views/Updatable-Views.sql)
+    - [WITH CHECK OPTION Clause](Views/With_Check_Option-Clause.sql)
+    - [Other benefits of Views](Views/other-benefits-of-views.png)
+---
 **MySQL documentation** - https://dev.mysql.com/doc/
