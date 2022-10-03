@@ -124,4 +124,6 @@
     - [Functions](Stored-Procedures/functions.sql)
       - [Drop Functions](Stored-Procedures/drop-functions.sql)
 ---
+  - Triggers and Events
+---
 **MySQL documentation** - https://dev.mysql.com/doc/
