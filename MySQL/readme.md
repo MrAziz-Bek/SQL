@@ -127,5 +127,6 @@
   - Triggers and Events
     - [Triggers](Triggers-and-Events/triggers.md)
       - [Triggers](Triggers-and-Events/triggers.sql) code
+        - [Triggers](Triggers-and-Events/triggers-exercise.sql) exercise
 ---
 **MySQL documentation** - https://dev.mysql.com/doc/
