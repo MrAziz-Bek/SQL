@@ -135,4 +135,7 @@
       - [Events](Triggers-and-Events/events.sql) code
     - [Viewing, Dropping, Altering Events](Triggers-and-Events/viewing-dropping-altering-events.sql)
 ---
+  - Transactions And Concurrency
+    - [Transactions](Transactions-and-Concurrency/transactions.md)
+---
 **MySQL documentation** - https://dev.mysql.com/doc/
