@@ -1,0 +1,3 @@
+SHOW TRIGGERS LIKE 'payments%';
+
+-- SHOW TRIGGERS;
