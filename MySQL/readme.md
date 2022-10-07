@@ -131,7 +131,8 @@
     - [Viewing Triggers](Triggers-and-Events/viewing-triggers.sql)
     - [Dropping Triggers](Triggers-and-Events/dropping-triggers.sql)
     - [Using Triggers for Auditing](Triggers-and-Events/using-triggers-for-auditing.sql)
-    - [Events]
+    - [Events](Triggers-and-Events/events.md)
+      - [Events](Triggers-and-Events/events.sql) code
     - [Viewing, Dropping, Altering Events]
 ---
 **MySQL documentation** - https://dev.mysql.com/doc/
