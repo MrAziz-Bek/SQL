@@ -133,6 +133,6 @@
     - [Using Triggers for Auditing](Triggers-and-Events/using-triggers-for-auditing.sql)
     - [Events](Triggers-and-Events/events.md)
       - [Events](Triggers-and-Events/events.sql) code
-    - [Viewing, Dropping, Altering Events]
+    - [Viewing, Dropping, Altering Events](Triggers-and-Events/viewing-dropping-altering-events.sql)
 ---
 **MySQL documentation** - https://dev.mysql.com/doc/
