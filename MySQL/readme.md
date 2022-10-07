@@ -130,5 +130,8 @@
         - [Triggers](Triggers-and-Events/triggers-exercise.sql) exercise
     - [Viewing Triggers](Triggers-and-Events/viewing-triggers.sql)
     - [Dropping Triggers](Triggers-and-Events/dropping-triggers.sql)
+    - [Using Triggers for Auditing](Triggers-and-Events/using-triggers-for-auditing.sql)
+    - [Events]
+    - [Viewing, Dropping, Altering Events]
 ---
 **MySQL documentation** - https://dev.mysql.com/doc/
